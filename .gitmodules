@@ -7,3 +7,6 @@
 [submodule "StakingContractAudit/lib/openzeppelin-foundry-upgrades"]
 	path = StakingContractAudit/lib/openzeppelin-foundry-upgrades
 	url = https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
+[submodule "StakingContractAudit/lib/openzeppelin-contracts-upgradeable"]
+	path = StakingContractAudit/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
